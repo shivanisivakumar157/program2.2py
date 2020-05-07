@@ -1,0 +1,6 @@
+dict1={"shiva":22,"shabu":33,"archu":44}
+dict2={"orange":35,"mangoes":40}
+del dict1["shiva"]
+dict2.popitem()
+print(dict1)
+print(dict2)
